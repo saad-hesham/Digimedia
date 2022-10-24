@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Digimedia/static/css/main.d33f180c.css",
+    "main.js": "/Digimedia/static/js/main.960287a7.js",
+    "static/media/slider-dec.png": "/Digimedia/static/media/slider-dec.cd1daddea2a434f5f77d.png",
+    "static/media/about-dec.png": "/Digimedia/static/media/about-dec.3606587ef0df95a29b73.png",
+    "static/media/services-image-04.jpg": "/Digimedia/static/media/services-image-04.bb0fd35a6c52aa0dd774.jpg",
+    "static/media/blog-post-01.jpg": "/Digimedia/static/media/blog-post-01.608a859b86cf5cf49d1c.jpg",
+    "static/media/services-image-03.jpg": "/Digimedia/static/media/services-image-03.1562ef7e9c46ef8b02f0.jpg",
+    "static/media/services-image-02.jpg": "/Digimedia/static/media/services-image-02.bd836688ef01362866bc.jpg",
+    "static/media/portfolio-01.jpg": "/Digimedia/static/media/portfolio-01.0c18be12f95d52e88d70.jpg",
+    "static/media/portfolio-02.jpg": "/Digimedia/static/media/portfolio-02.71972028407d36da25c7.jpg",
+    "index.html": "/Digimedia/index.html",
+    "main.d33f180c.css.map": "/Digimedia/static/css/main.d33f180c.css.map",
+    "main.960287a7.js.map": "/Digimedia/static/js/main.960287a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d33f180c.css",
+    "static/js/main.960287a7.js"
+  ]
+}
